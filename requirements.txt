@@ -13,3 +13,6 @@ Pillow==10.3.0       # Image processing for OCR
 chromadb==0.5.0      # Local Vector Database for RAG
 groq==0.8.0          # Llama-3 API client
 sarvamai==0.1.0      # Official Indic language translation SDK
+google-genai         #Google genai for doc processing
+python-dotenv
+instructor
